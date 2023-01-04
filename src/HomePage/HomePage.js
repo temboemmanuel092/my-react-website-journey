@@ -3,22 +3,7 @@ import React from 'react';
 export default function HomePage() {
   return (
     <div>
-      <nav></nav>
-      <ul className="top-bar">
-        <li>
-          <button>Home</button>
-        </li>
-        <li>
-          <button>Services</button>
-        </li>
-        <li>
-          <button>Tracking</button>
-        </li>
-        <li>
-          <button>Contact Us</button>
-        </li>
-      </ul>
-      <hr />
+    
       <p>
         <img
           src="https://images.pexels.com/photos/6567607/pexels-photo-6567607.jpeg"
