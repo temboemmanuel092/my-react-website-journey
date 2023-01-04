@@ -7,7 +7,6 @@ p {
 .page-title {
   display: flex;
   text-align: center;
-  
 }
 
 .text {
@@ -16,18 +15,14 @@ p {
   margin: 10px;
   padding: 10px;
   box-sizing: content-box;
-  
 }
 
 .top-bar {
   display: flex;
   justify-content: space-between;
-  background-color: #21222A;
-  height: 70px;
-  padding: 10px;
-
-  
-  
+  background-color: #21222a;
+  height: 5-0px;
+  padding: 50px;
 }
 
 .main-image {
